@@ -11,3 +11,9 @@ sudo python3 sensor.py
 **To activate server**
 cd Cybershield
 python server.py
+
+**Now go to:**
+http://127.0.0.1:8338 
+
+![image](https://github.com/user-attachments/assets/d8f337ec-caec-4bf6-8b98-3f16218be597)
+

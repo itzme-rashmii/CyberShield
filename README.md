@@ -7,3 +7,7 @@ sudo pip3 install pcapy-ng
 git clone --depth 1 https://github.com/itzme-rashmii/CyberShield.git
 cd CyberShield
 sudo python3 sensor.py
+
+**To activate server**
+cd Cybershield
+python server.py
